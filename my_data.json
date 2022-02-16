@@ -1,0 +1,23 @@
+{
+  "first-name": "Daniel",
+  "last-name": " Ordonez",
+  "address": "5500 University Pkwy, San Bernardino, CA 92407",
+  "phone": "(123)456-7890",
+  "email": "Ordonezd6@mail.com",
+  "introduction": "Hello, my name is Daniel Ordonez and I like martials arts, doing flips, volleyball and creating websites. I hope one day I get to become a full stack web developer.",
+  "experience":[
+    {
+      "title":"WEB DEVELOPER",
+      "employer":"CSUSB",
+      "period":"July 2015 - Present",
+      "description":"Able to create a front end website using html, css and javascript. Can set up a server to host the website."
+    },
+    {
+      "title":"System Administrator",
+      "employer":"CSUSB",
+      "period":"Fall 2021 - Present",
+      "description":"Setting up firewalls and configurations for servers. Maintaning servers and increasing performance."
+    }
+  ]
+
+}
